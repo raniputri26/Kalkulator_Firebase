@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264644250639",
+    "project_id": "kalkulator-63fa6",
+    "storage_bucket": "kalkulator-63fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264644250639:android:57f22a2f0c41f69ddca77a",
+        "android_client_info": {
+          "package_name": "com.example.kalkulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264644250639-qtl6bn08om1vehc3l1gcqn7h59hmm5co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQaHwJNi-QmrrAgcHdosXD4olEg7F70eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264644250639-qtl6bn08om1vehc3l1gcqn7h59hmm5co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
